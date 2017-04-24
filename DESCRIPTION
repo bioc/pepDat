@@ -1,7 +1,7 @@
 Package: pepDat
 Type: Package
 Title: Peptide microarray data package
-Version: 0.109.0
+Version: 0.110.0
 Author: Renan Sauteraud, Raphael Gottardo
 Maintainer: Renan Sauteraud <rsautera@fhcrc.org>
 Date: 2012-08-14
